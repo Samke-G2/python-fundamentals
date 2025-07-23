@@ -1,24 +1,26 @@
-# Case Study 1 - Income tax calculator
-# by Samke G2
+"""
+Case Study 1 - Income tax calculator
+by Samke G2
 
 
-# Compute a person's income tax
+Compute a person's income tax
 
-# 1. Significant constants
-#   tax rate
-#   standard deduction
-#   deduction per dependent
+1. Significant constants
+  tax rate
+  standard deduction
+  deduction per dependent
 
-# 2. The inputs are:
-#   gross Income
-#   number of dependants
+2. The inputs are:
+  gross Income
+  number of dependants
 
-# 3. Computations:
-#   taxable income = gross income - the standard deduction - (a deduction for each dependent)
-#   income tax = a fixed percentage of taxble Income
+3. Computations:
+  taxable income = gross income - the standard deduction - (a deduction for each dependent)
+  income tax = a fixed percentage of taxble Income
 
-# 4. The outputs are:
-#   the income taxble
+4. The outputs are:
+  the income taxable
+"""
 
 
 # Initialize the constants
