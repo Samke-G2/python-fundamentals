@@ -9,7 +9,7 @@ It computes the total charger of vid rentals based on different pricing fpr diff
     - newer = $3.00
     - oldies = $2.00
 
-2. The inouts are :
+2. The inputs are :
     - Number of old movies rented
     - Number of new movies rented
 
